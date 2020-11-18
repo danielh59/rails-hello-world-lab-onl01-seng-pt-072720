@@ -1,7 +1,6 @@
 class HelloWorldController < ApplicationController
 
-  def
-
+  def about
+        "some_page"
   end
-
 end
